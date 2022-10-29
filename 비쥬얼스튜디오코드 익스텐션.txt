@@ -24,3 +24,5 @@ Prettier
 
 vscode icons
 에디터 왼쪽  Exploerer탭의 아이콘 모양을 보기좋게 변경해주는 확장기능
+
+live server preview
